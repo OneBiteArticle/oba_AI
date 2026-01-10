@@ -1,3 +1,5 @@
+# oba_AI/app/db/mongo.py
+
 from pymongo import MongoClient
 from app.core.config import settings
 

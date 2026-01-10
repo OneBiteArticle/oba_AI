@@ -1,3 +1,5 @@
+# oba_AI/app/api/ai_controller.py
+
 from fastapi import APIRouter
 from app.schemas.gpt_schema import AnalyzeRequest
 from app.services.ai_service import ai_service

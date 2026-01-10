@@ -1,3 +1,5 @@
+# oba_AI/app/schemas/gpt_schema.py
+
 from pydantic import BaseModel
 from typing import List
 
